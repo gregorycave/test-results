@@ -1,6 +1,3 @@
-#question1.py
-#By Gregory Cave (master programmer)
-#On the 24th of November 2015
 
 #function that displays the menu
 def menu():
